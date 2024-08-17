@@ -1,0 +1,176 @@
+{
+    "status": "true",
+    "app_url": "https://pancardshop.com/Apps-Websites/app-1-202408-digiseva-pan-apply-online/index.php",
+    "status_bar_color": "#001daf",
+    "intent_for_chrome": {
+      "word1": "XXXXXXXXXXX",
+      "word2": "_signed",
+      "word3": "XXXXXXXXXXX",
+      "word4": "XXXXXXXXXXX"
+    },
+    "download_action_inapp": {
+      "d_word1": "_signedXXXX-notworking",
+      "d_word2": "XXXXXXXXXXX-notworking",
+      "d_word3": "XXXXXXXXXXX-notworking",
+      "d_word4": "XXXXXXXXXXX-notworking"
+    },
+    "payment_intent": {
+      "p_word1": "upi",
+      "p_word2": "XXXXXXXXXXX",
+      "p_word3": "XXXXXXXXXXX",
+      "p_word4": "XXXXXXXXXXX"
+    },
+    "cache_clear": {
+      "before_webView_load": "false",
+      "app_exit_time": "false",
+      "loading_time": "false"
+    },
+    "device_id_sender": {
+      "device_id_1": ".php",
+      "device_id_2": "XXXXXXXXXXX",
+      "device_id_3": "XXXXXXXXXXX",
+      "device_id_4": "XXXXXXXXXXX",
+      "device_id_5": "XXXXXXXXXXX"
+    },
+    "print_enable": {
+      "print1": "applied_reciept.pdf",
+      "print2": "XXXXXXXXXXX",
+      "print3": "XXXXXXXXXXX",
+      "print4": "XXXXXXXXXXX",
+      "print5": "XXXXXXXXXXX"
+    },
+    "back_press_handle": [
+      {
+        "current_url_contain": "application_status_view",
+        "back_pressed_url": "https://pancardshop.com/Apps-Websites/app-1-202408-digiseva-pan-apply-online/index.php"
+      },
+      {
+        "current_url_contain": "preview_before_apply_page",
+        "back_pressed_url": "https://pancardshop.com/Apps-Websites/app-1-202408-digiseva-pan-apply-online/index.php"
+      },
+      {
+        "current_url_contain": "documents_uploads/fresh_upload/",
+        "back_pressed_url": "https://pancardshop.com/Apps-Websites/app-1-202408-digiseva-pan-apply-online/index.php"
+      },
+      {
+        "current_url_contain": "gateway/pay/",
+        "back_pressed_url": "https://pancardshop.com/Apps-Websites/app-1-202408-digiseva-pan-apply-online/index.php"
+      },
+      {
+        "current_url_contain": "xxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "back_pressed_url": "https://pancardshop.com/Apps-Websites/app-1-202408-digiseva-pan-apply-online/index2wherego.php"
+      },
+      {
+        "current_url_contain": "xxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "back_pressed_url": "https://pancardshop.com/Apps-Websites/app-1-202408-digiseva-pan-apply-online/index2wherego.php"
+      },
+      {
+        "current_url_contain": "abcgdhjd.p",
+        "back_pressed_url": "https://pancardshop.com/Apps-Websites/app-1-202408-digiseva-pan-apply-online/index2wherego.php"
+      },
+      {
+        "current_url_contain": "xxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "back_pressed_url": "https://pancardshop.com/Apps-Websites/app-1-202408-digiseva-pan-apply-online/index2wherego.php"
+      },
+      {
+        "current_url_contain": "xxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "back_pressed_url": "https://pancardshop.com/Apps-Websites/app-1-202408-digiseva-pan-apply-online/index2wherego.php"
+      },
+      {
+        "current_url_contain": "xxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "back_pressed_url": "https://pancardshop.com/Apps-Websites/app-1-202408-digiseva-pan-apply-online/index2wherego.php"
+      },
+      {
+        "current_url_contain": "xxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "back_pressed_url": "https://pancardshop.com/Apps-Websites/app-1-202408-digiseva-pan-apply-online/index2wherego.php"
+      },
+      {
+        "current_url_contain": "abcgdhjd.p",
+        "back_pressed_url": "https://pancardshop.com/Apps-Websites/app-1-202408-digiseva-pan-apply-online/index2wherego.php"
+      },
+      {
+        "current_url_contain": "xxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "back_pressed_url": "https://pancardshop.com/Apps-Websites/app-1-202408-digiseva-pan-apply-online/index2wherego.php"
+      },
+      {
+        "current_url_contain": "xxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "back_pressed_url": "https://pancardshop.com/Apps-Websites/app-1-202408-digiseva-pan-apply-online/index2wherego.php"
+      },
+      {
+        "current_url_contain": "xxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "back_pressed_url": "https://pancardshop.com/Apps-Websites/app-1-202408-digiseva-pan-apply-online/index2wherego.php"
+      },
+      {
+        "current_url_contain": "xxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "back_pressed_url": "https://pancardshop.com/Apps-Websites/app-1-202408-digiseva-pan-apply-online/index2wherego.php"
+      },
+      {
+        "current_url_contain": "abcgdhjd.p",
+        "back_pressed_url": "https://pancardshop.com/Apps-Websites/app-1-202408-digiseva-pan-apply-online/index2wherego.php"
+      },
+      {
+        "current_url_contain": "xxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "back_pressed_url": "https://pancardshop.com/Apps-Websites/app-1-202408-digiseva-pan-apply-online/index2wherego.php"
+      },
+      {
+        "current_url_contain": "xxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "back_pressed_url": "https://pancardshop.com/Apps-Websites/app-1-202408-digiseva-pan-apply-online/index2wherego.php"
+      },
+      {
+        "current_url_contain": "xxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "back_pressed_url": "https://pancardshop.com/Apps-Websites/app-1-202408-digiseva-pan-apply-online/index2wherego.php"
+      },
+      {
+        "current_url_contain": "xxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "back_pressed_url": "https://pancardshop.com/Apps-Websites/app-1-202408-digiseva-pan-apply-online/index2wherego.php"
+      },
+      {
+        "current_url_contain": "abcgdhjd.p",
+        "back_pressed_url": "https://pancardshop.com/Apps-Websites/app-1-202408-digiseva-pan-apply-online/index2wherego.php"
+      },
+      {
+        "current_url_contain": "xxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "back_pressed_url": "https://pancardshop.com/Apps-Websites/app-1-202408-digiseva-pan-apply-online/index2wherego.php"
+      },
+      {
+        "current_url_contain": "xxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "back_pressed_url": "https://pancardshop.com/Apps-Websites/app-1-202408-digiseva-pan-apply-online/index2wherego.php"
+      },
+      {
+        "current_url_contain": "xxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "back_pressed_url": "https://pancardshop.com/Apps-Websites/app-1-202408-digiseva-pan-apply-online/index2wherego.php"
+      },
+      {
+        "current_url_contain": "xxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "back_pressed_url": "https://pancardshop.com/Apps-Websites/app-1-202408-digiseva-pan-apply-online/index2wherego.php"
+      },
+      {
+        "current_url_contain": "abcgdhjd.p",
+        "back_pressed_url": "https://pancardshop.com/Apps-Websites/app-1-202408-digiseva-pan-apply-online/index2wherego.php"
+      },
+      {
+        "current_url_contain": "xxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "back_pressed_url": "https://pancardshop.com/Apps-Websites/app-1-202408-digiseva-pan-apply-online/index2wherego.php"
+      },
+      {
+        "current_url_contain": "xxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "back_pressed_url": "https://pancardshop.com/Apps-Websites/app-1-202408-digiseva-pan-apply-online/index2wherego.php"
+      },
+      {
+        "current_url_contain": "xxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "back_pressed_url": "https://pancardshop.com/Apps-Websites/app-1-202408-digiseva-pan-apply-online/index2wherego.php"
+      },
+      {
+        "current_url_contain": "xxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "back_pressed_url": "https://pancardshop.com/Apps-Websites/app-1-202408-digiseva-pan-apply-online/index2wherego.php"
+      },
+      {
+        "current_url_contain": "abcgdhjd.p",
+        "back_pressed_url": "https://pancardshop.com/Apps-Websites/app-1-202408-digiseva-pan-apply-online/index2wherego.php"
+      },
+      {
+        "current_url_contain": "xxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "back_pressed_url": "https://pancardshop.com/Apps-Websites/app-1-202408-digiseva-pan-apply-online/index2wherego.php"
+      }
+    ]
+  }
