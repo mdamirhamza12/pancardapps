@@ -42,19 +42,19 @@
     "back_press_handle": [
       {
         "current_url_contain": "application_status_view",
-        "back_pressed_url": "https://pancardshop.com/Apps-Websites/app-1-202408-digiseva-pan-apply-online/index.php"
+        "back_pressed_url": "https://mydigitalsevas.com/PAN_SERVICE/after_login_home_page.php"
       },
       {
         "current_url_contain": "preview_before_apply_page",
-        "back_pressed_url": "https://pancardshop.com/Apps-Websites/app-1-202408-digiseva-pan-apply-online/index.php"
+        "back_pressed_url": "https://mydigitalsevas.com/PAN_SERVICE/after_login_home_page.php"
       },
       {
         "current_url_contain": "documents_uploads/fresh_upload/",
-        "back_pressed_url": "https://pancardshop.com/Apps-Websites/app-1-202408-digiseva-pan-apply-online/index.php"
+        "back_pressed_url": "https://mydigitalsevas.com/PAN_SERVICE/after_login_home_page.php"
       },
       {
         "current_url_contain": "gateway/pay/",
-        "back_pressed_url": "https://pancardshop.com/Apps-Websites/app-1-202408-digiseva-pan-apply-online/index.php"
+        "back_pressed_url": "https://mydigitalsevas.com/PAN_SERVICE/after_login_home_page.php"
       },
       {
         "current_url_contain": "xxxxxxxxxxxxxxxxxxxxxxxxxx",
